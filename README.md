@@ -67,8 +67,6 @@ The program will prompt you to enter the student's name, grade, and scores for e
 Contributing
 If you would like to contribute to the project, you can fork the repository and submit a pull request with your changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
