@@ -1,9 +1,9 @@
-Ethiopian Student Report Card Maker
-This program generates report cards for Ethiopian students based on their grades and other information.
+<h1>Ethiopian Student Report Card Maker</h1>
+- ```This program generates report cards for Ethiopian students based on their grades and other information.```
 
-Screenshot of the program interface
+#### Screenshot of the program interface
 
-Installation
+### Installation
 To install the program, you will need to have Python 3 installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/
 
 Once you have Python 3 installed, you can download the program files from the GitHub repository:
